@@ -68,7 +68,7 @@ Full details, impact and remediation are in **[FINDINGS_REPORT.md](FINDINGS_REPO
 .
 ├── README.md             # This file
 ├── FINDINGS_REPORT.md    # Detailed findings, risk rating, remediation
-└── evidence/             # (add) MobSF PDF report + screenshots
+└── DivaApplication.apk   # Diva file
 ```
  
 ## Methodology
